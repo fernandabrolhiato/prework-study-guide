@@ -2,19 +2,12 @@
 
 ## Description
 
--The main motivation behind this project is to make more people aware of coding and how important it is around us. 
--This project was built to provide important information about coding.
--With the information listed in this project, people can draw on the information to help solve problems that may exist in coding. 
--I've learnt through this project that I'm capable of learning new things that seemed so far from my grasp before. Coding is all around us and being part of it can lead to great things in the future. 
+ The main motivation behind this project is to make more people aware of coding and how important it is around us. This project was built to provide important information about coding. With the information listed in this project, people can draw on the information to help solve problems that may exist in coding. I've learnt through this project that I'm capable of learning new things that seemed so far from my grasp before. Coding is all around us and being part of it can lead to great things in the future. 
 
 This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 
 ## Installation "N/A"
 
